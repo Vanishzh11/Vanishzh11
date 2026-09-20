@@ -28,12 +28,12 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miwwaa11&show_icons=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vanishzh11&show_icons=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanishzh11&layout=compact&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=7ee787&border_color=238636" alt="Most Used Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&background=0d1117&border=238636&stroke=39d353&ring=39d353&fire=2ea043&currStreakNum=7ee787&currStreakLabel=7ee787&sideNums=39d353&sideLabels=39d353&dates=2ea043" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanishzh11&background=0d1117&border=238636&stroke=39d353&ring=39d353&fire=2ea043&currStreakNum=7ee787&currStreakLabel=7ee787&sideNums=39d353&sideLabels=39d353&dates=2ea043" alt="GitHub Streak" />
 </p>
 
 </div>
