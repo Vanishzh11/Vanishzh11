@@ -12,15 +12,15 @@
 </p>
 
 ### My Tools
-<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,react,nodejs,javascript,git,vscode,docker,figma,bash" />
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,react,nodejs,javascript,git,vscode,docker,figma" />
 
 ---
 
-### Miwwaa11 contribution 
+### GitHub Contribution
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanishzh11/Vanishzh11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanishzh11/Vanishzh11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Vanishzh11/Vanishzh11/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
