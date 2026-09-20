@@ -12,7 +12,7 @@
 </p>
 
 ### My Tools
-<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,react,nodejs,javascript,git,vscode,docker,figma" />
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,react,nodejs,javascript,git,vscode,docker,figma,bash" />
 
 ---
 
