@@ -45,4 +45,11 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Vanishzh11&show_icons=true&bg_color=00000000&title_color=7DD3FC&icon_color=38BDF8&text_color=F8FAFC&border_color=BAE6FD&border_radius=10" alt="GitHub Stats" height="165" />
      
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanishzh11&layout=compact&bg_color=00000000&title_color=7DD3FC&icon_color=38BDF8&text_color=F8FAFC&border_color=BAE6FD&border_radius=10" alt="Most Used Languages" height="165" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Vanishzh11&background=00000000&border=BAE6FD&stroke=BAE6FD&ring=38BDF8&fire=7DD3FC&currStreakNum=F8FAFC&currStreakLabel=7DD3FC&sideNums=F8FAFC&sideLabels=7DD3FC&dates=CBD5E1&border_radius=10" alt="GitHub Streak" />
+  </p>
+
+</div>
