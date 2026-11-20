@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34b7eb¢er=true&vCenter=true&width=600&lines=Software+Engineering;Ethical+Hacking+Learning;UI%2FUX+Designer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34b7eb&center=true&vCenter=true&width=380&lines=Software+Engineering;Ethical+Hacking+Learning;UI%2FUX+Designer" alt="Typing SVG" />
     </a>
   </p>
 
@@ -20,7 +20,7 @@
 
   <br />
 
-  <h3>My Tools & Tech Stack</h3>
+  <h3>Tools & Tech Stack</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,react,nodejs,javascript,git,vscode,docker,figma" alt="My Tools" />
   </p>
@@ -45,11 +45,4 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Vanishzh11&show_icons=true&bg_color=00000000&title_color=7DD3FC&icon_color=38BDF8&text_color=F8FAFC&border_color=BAE6FD&border_radius=10" alt="GitHub Stats" height="165" />
      
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanishzh11&layout=compact&bg_color=00000000&title_color=7DD3FC&icon_color=38BDF8&text_color=F8FAFC&border_color=BAE6FD&border_radius=10" alt="Most Used Languages" height="165" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Vanishzh11&background=00000000&border=BAE6FD&stroke=BAE6FD&ring=38BDF8&fire=7DD3FC&currStreakNum=F8FAFC&currStreakLabel=7DD3FC&sideNums=F8FAFC&sideLabels=7DD3FC&dates=CBD5E1&border_radius=10" alt="GitHub Streak" />
-  </p>
-
-</div>
+    <img src="
